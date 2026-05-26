@@ -1,4 +1,4 @@
-# SMART UPI FRAUD DETECTION USING ADVANCED MACHINE LEARNING – AN INTELLIGENT SYSTEM FOR IDENTIFYING ANAMOLIES IN UPI PAYMENT NETWORKS
+# UPI FRAUD DETECTION USING ADVANCED MACHINE LEARNING – AN INTELLIGENT SYSTEM FOR IDENTIFYING ANAMOLIES IN UPI PAYMENT NETWORKS
 
 An intelligent fraud detection system that identifies anomalies in UPI payment transactions using advanced Machine Learning algorithms, deployed as a full-stack Django web application.
 This web app has been developed using the popular Django framework and Bootstrap for the frontend. My motivation to build this project is so that I can learn about Django and tighten up my skills. This mini-app can be easily integrated into a bigger system project that needs to have a registration and login system.
